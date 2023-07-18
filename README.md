@@ -38,7 +38,6 @@ font-face
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Regular.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Regular.ttf') format('truetype');
 }
 @font-face {
@@ -48,7 +47,6 @@ font-face
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBareonbatang/HakgyoansimBareonbatang-Bold.ttf') format('truetype');
 }
 ```
