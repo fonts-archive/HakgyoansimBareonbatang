@@ -1,6 +1,6 @@
 # Hakgyoansim Bareonbatang
 
-[Visit Source](https://copyright.keris.or.kr/wft/fntDwnldView)
+[Visit Source](https://copyright.keris.or.kr/wft/fntDwnld)
 
 &nbsp;
 
